@@ -3,14 +3,17 @@
 <img src='./src/assets/sasuke.png' align="right"/>
 
 <div class='intro' style="display: flex;">
-  <br/>
+<br></br>
   <div>Why do I call myself AnLijun，which likes a salesman's name.</div> 
   <div>Because I usually recommend people around me to learn web technology.</div> 
   <div>And I've done a lot of demos.  </div> 
   <div>In Chinese, the demo can be translated as ＂anli."</div>
   <div>That's why I call myself Anlijun.</div>
 
+<h6>月下独酌</h6>
+<div>李白</div>
 <ul>
+  <li> 花间一壶酒，独酌无相亲。</li>
   <li> 花间一壶酒，独酌无相亲。</li>
   <li> 月既不解饮，影徒随我身。</li>
   <li> 暂伴月将影，行乐须及春。</li>
