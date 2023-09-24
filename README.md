@@ -3,7 +3,7 @@
 <img src='./src/assets/sasuke.png' align="right"/>
 
 <div class='intro' style="display: flex;">
-      
+  <br/>
   <div>Why do I call myself AnLijun，which likes a salesman's name.</div> 
   <div>Because I usually recommend people around me to learn web technology.</div> 
   <div>And I've done a lot of demos.  </div> 
