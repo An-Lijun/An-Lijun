@@ -1,5 +1,7 @@
 # Hi bro, I'm AnLijun（安利君）. 👋
 
+<img src='./src/assets/sasuke.png' align="right"/>
+
 <div class='intro' style="display: flex;">
       
   <div>Why do I call myself AnLijun，which likes a salesman's name.</div> 
@@ -7,10 +9,17 @@
   <div>And I've done a lot of demos.  </div> 
   <div>In Chinese, the demo can be translated as ＂anli."</div>
   <div>That's why I call myself Anlijun.</div>
-  
+
+<ul>
+  <li> 花间一壶酒，独酌无相亲。</li>
+  <li> 月既不解饮，影徒随我身。</li>
+  <li> 暂伴月将影，行乐须及春。</li>
+  <li> 我歌月徘徊，我舞影零乱。</li>
+  <li> 醒时相交欢，醉后各分散。</li>
+  <li> 永结无情游，相期邈云汉。</li>
+</ul>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=An-Lijun&layout=compact&theme=tokyonight)
 
-  <img src='./src/assets/sasuke.png' align="right"/>
 </div>
 <h2 align="left" id="macropower-tech">Favorite</h2>
  Tools, languages, and other things that I like to work with.
