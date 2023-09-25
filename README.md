@@ -1,6 +1,6 @@
 # Hi bro, I'm AnLijun（安利君）. 👋
 
-<img src='./src/assets/sasuke.png' align="right"/>
+<img src='./src/assets/sasuke.png' align="right" width="350"/>
 
 <div class='intro' style="display: flex;">
 <br></br>
@@ -10,7 +10,7 @@
   <div>🏜 In Chinese, the demo can be translated as ＂anli."</div>
   <div>🏝 That's why I call myself Anlijun.</div>
 <a class="heading-link" href="#-how-to-reach-me">📫 How to reach me:</a>
- <table>
+ <table border="0">
   <tr>
     <td align="center" width="70">
       <a href="https://space.bilibili.com/515747819?spm_id_from=333.1007.0.0">
