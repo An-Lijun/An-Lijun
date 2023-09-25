@@ -4,11 +4,13 @@
 
 <div class='intro' style="display: flex;">
 <br></br>
-  <div>🧭 Why do I call myself AnLijun，which likes a salesman's name.</div> 
-  <div>🏖 Because I usually recommend people around me to learn web technology.</div> 
-  <div>🏔 And I've done a lot of demos.  </div> 
-  <div>🏜 In Chinese, the demo can be translated as ＂anli."</div>
-  <div>🏝 That's why I call myself Anlijun.</div>
+<ul>
+  <li>🧭 Why do I call myself AnLijun，which likes a salesman's name.</li> 
+  <li>🏖 Because I usually recommend people around me to learn web technology.</li> 
+  <li>🏔 And I've done a lot of demos.  </li> 
+  <li>🏜 In Chinese, the demo can be translated as ＂anli."</li>
+  <li>🏝 That's why I call myself Anlijun.</li>
+</ul>
 <h4>
   <a class="heading-link" href="#-how-to-reach-me">📫 How to reach me:</a>
 </h4>
