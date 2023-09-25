@@ -13,6 +13,7 @@
   <a class="heading-link" href="#-how-to-reach-me">📫 How to reach me:</a>
 </h4>
 <p>
+  <tr>
   <td align="center" width="70">
     <a href="https://space.bilibili.com/515747819?spm_id_from=333.1007.0.0">
       <img src="./src/assets/bilibili.svg" width="38" height="38" alt="Html" />
@@ -23,6 +24,7 @@
       <img src="./src/assets/juejin.png" width="38" height="38" alt="Html" />
     </a>
   </td>
+  </tr>
 </p>
 
 <h6>月下独酌</h6>
