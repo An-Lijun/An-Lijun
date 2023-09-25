@@ -1,6 +1,6 @@
 # Hi bro, I'm AnLijun（安利君）. 👋
 
-<img src='./src/assets/sasuke.png' align="right" width="350"/>
+<img src='./src/assets/sasuke.png' align="right" width="300"/>
 
 <div class='intro' style="display: flex;">
 <br></br>
