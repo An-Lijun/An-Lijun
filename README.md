@@ -16,12 +16,11 @@
 </h4>
 <p>
     <a align="center" width="70" href="https://space.bilibili.com/515747819?spm_id_from=333.1007.0.0">
-      <img src="./src/assets/bilibili.svg" width="30" height="30" alt="Html" />
+      <img src="./src/assets/bilibili.svg" width="28" height="28" alt="Html" />
     </a>
     <span>&nbsp;</span>
-    <span>&nbsp;</span>
     <a href="https://juejin.cn/user/2502960686040286" align="center" width="70">
-      <img src="./src/assets/juejin.png" width="30" height="30" alt="Html" />
+      <img src="./src/assets/juejin.png" width="28" height="28" alt="Html" />
     </a>
 </p>
 
