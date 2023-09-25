@@ -9,8 +9,10 @@
   <div>🏔 And I've done a lot of demos.  </div> 
   <div>🏜 In Chinese, the demo can be translated as ＂anli."</div>
   <div>🏝 That's why I call myself Anlijun.</div>
-<a class="heading-link" href="#-how-to-reach-me">📫 How to reach me:</a>
-<div>
+<h4>
+  <a class="heading-link" href="#-how-to-reach-me">📫 How to reach me:</a>
+</h4>
+<p>
   <td align="center" width="70">
     <a href="https://space.bilibili.com/515747819?spm_id_from=333.1007.0.0">
       <img src="./src/assets/bilibili.svg" width="38" height="38" alt="Html" />
@@ -21,7 +23,7 @@
       <img src="./src/assets/juejin.png" width="38" height="38" alt="Html" />
     </a>
   </td>
-</div>
+</p>
 
 <h6>月下独酌</h6>
 <div>李白</div>
