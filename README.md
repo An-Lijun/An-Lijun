@@ -36,7 +36,6 @@
   <li> 永结无情游，相期邈云汉。</li>
 </ul>
 <br></br>
-<br></br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=An-Lijun&layout=compact)
 <!-- &theme=tokyonight -->
@@ -84,9 +83,21 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./src/assets/React.svg" width="48" height="48" alt="React" />
+        <img src="./src/assets/gulp.png" width="48" height="48" alt="gulp" />
       </a>
-      <br>React
+      <br>gulp
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./src/assets/visual-studio-code.png" width="48" height="48" alt="VsCode" />
+      </a>
+      <br>VsCode
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./src/assets/git.png" width="48" height="48" alt="git" />
+      </a>
+      <br>git
     </td>
   </tr>
 </table>
